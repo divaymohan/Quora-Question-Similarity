@@ -24,4 +24,23 @@ Currently, Quora uses a ```Random Forest model``` to identify duplicate question
 * `Machine Learnig`
 * `Text Data`
 
+### This project requires **Python** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [NLTK]()
+- [matplotlib]()
+- [plotly]()
+- [re]()
+- [os]()
+- [seaborn]()
+
+* Special Libraries
+    * [fuzzywuzzy]()
+    * [wordcloud]()
+    
+
+
 
