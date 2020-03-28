@@ -40,6 +40,21 @@ Currently, Quora uses a ```Random Forest model``` to identify duplicate question
 * Special Libraries
     * [fuzzywuzzy]()
     * [wordcloud]()
+
+# Steps :
+
+ * [Basic Data Analysis and data cleaning]()
+* [Feature Extraction]() 
+* [Exploratery Data Analysis]()
+* [Feature Selection]()
+* [Model Building]()
+* [Beta Testing]() 
+
+# External Links
+* [link 1]()
+* [link 2]()
+* [link 3]()
+* [link 4]()
     
 
 
